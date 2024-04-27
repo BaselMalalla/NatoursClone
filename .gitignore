@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Generated files
+package-lock.json
+.DS_Store
+
+# Environment variables
+config.env
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Ignore dist or build directories if you have them
+# dist/
+# build/
+
+# Ignore ESLint and Prettier configurations if they are project-specific
+# eslintrc.json
+# .prettierrc
+
+# Ignore npm-debug.log or yarn-error.log files
+npm-debug.log
+yarn-error.log
